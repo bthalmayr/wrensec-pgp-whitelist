@@ -45,13 +45,13 @@
 
   <issueManagement>
     <system>GitHub Issues</system>
-    <url>https://github.com/WrenSecurity/wrensec-trusted-keys/issues</url>
+    <url>https://github.com/WrenSecurity/wrensec-pgp-whitelist/issues</url>
   </issueManagement>
 
   <scm>
-    <url>https://github.com/WrenSecurity/wrensec-trusted-keys</url>
-    <connection>scm:git:git://github.com/WrenSecurity/wrensec-trusted-keys.git</connection>
-    <developerConnection>scm:git:git@github.com:WrenSecurity/wrensec-trusted-keys.git</developerConnection>
+    <url>https://github.com/WrenSecurity/wrensec-pgp-whitelist</url>
+    <connection>scm:git:git://github.com/WrenSecurity/wrensec-pgp-whitelist.git</connection>
+    <developerConnection>scm:git:git@github.com:WrenSecurity/wrensec-pgp-whitelist.git</developerConnection>
   </scm>
 
   <properties>
